@@ -7,7 +7,7 @@ There are two buttons in which the user can use to play the game
 
 <img src="images/defaultpage.png" height="450">
 
-### An example of a diagonal win
+### An example of a horizontal win
 <img src="images/horizontalwin.png" height="450">
 
 ### An example of multiple wins
